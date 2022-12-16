@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"checkJs": true,
+		"target": "esnext",
+		"module": "commonJS",
+		"moduleResolution": "node",
+		"resolveJsonModule": true
+	},
+	"exclude": [
+		"services/api/dist",
+		"services/api/public",
+		"services/AssetValidationService",
+		"services/2016-roblox"
+	]
+}
